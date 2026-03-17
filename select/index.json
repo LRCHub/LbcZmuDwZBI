@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Thieves In The Night",
+  "base_artist": "Black Star",
+  "createdAt": "2026-03-17T23:00:40.986817Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Thieves In The Night",
+      "artist": "Black Star",
+      "has_synced": false,
+      "path": "select/01_Thieves_In_The_Night_Black_Star.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Thieves In The Night",
+      "artist": "Blackstar",
+      "has_synced": false,
+      "path": "select/02_Thieves_In_The_Night_Blackstar.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Thieves in the Night",
+      "artist": "Black Star",
+      "has_synced": true,
+      "path": "select/03_Thieves_in_the_Night_Black_Star.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Thieves In the Night",
+      "artist": "Hot Chip",
+      "has_synced": true,
+      "path": "select/04_Thieves_In_the_Night_Hot_Chip.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Thieves In The Night",
+      "artist": "Black Star (Rap)",
+      "has_synced": false,
+      "path": "select/05_Thieves_In_The_Night_Black_Star_(Rap).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Thieves In The Night",
+      "artist": "Heal The Hurt",
+      "has_synced": false,
+      "path": "select/06_Thieves_In_The_Night_Heal_The_Hurt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Thieves In The Night (Album Version (Explicit))",
+      "artist": "Black Star",
+      "has_synced": false,
+      "path": "select/07_Thieves_In_The_Night_(Album_Version_(Explicit))_Black_Star.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Thieves In The Night",
+      "artist": "Black Star - Topic",
+      "has_synced": true,
+      "path": "select/08_Thieves_In_The_Night_Black_Star_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Thieves In The Temple",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_Thieves_In_The_Temple_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thieves in the Temple (Remix)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/10_Thieves_in_the_Temple_(Remix)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thieves In The Temple (Remix) - Prince",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/11_Thieves_In_The_Temple_(Remix)_-_Prince_Prince.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "13 - Thieves in the temple",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/12_13_-_Thieves_in_the_temple_Prince.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Thieves in the Temple (remix)",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/13_Thieves_in_the_Temple_(remix)_Prince.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thieves In The Night",
+      "artist": "Black Star",
+      "has_synced": true,
+      "path": "select/14_Thieves_In_The_Night_Black_Star.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Thieves In The Night",
+      "artist": "Black Star",
+      "has_synced": false,
+      "path": "select/pl_01_Thieves_In_The_Night_Black_Star.txt"
+    }
+  ]
+}
